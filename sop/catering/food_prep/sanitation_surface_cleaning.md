@@ -10,12 +10,10 @@ KEY WORDS: Food Contact Surface, Cleaning, Sanitizing
 
 INSTRUCTIONS:
 
-1.Train foodservice on using the procedures in this SOP.
-2.Follow State or local health department requirements.
-3.Follow manufacturer’s instructions regarding the use and maintenance of equipment and use of chemicals for cleaning and sanitizing food contact surfaces. Refer to Storing and Using Poisonous or Toxic Chemicals SOP.
-
-4.If State or local requirements are based on the 2001 FDA Food Code, wash, rinse, and sanitize food contact surfaces of sinks, tables,
-equipment, utensils, thermometers, carts, and equipment:
+1. Train foodservice on using the procedures in this SOP.
+2. Follow State or local health department requirements.
+3. Follow manufacturer’s instructions regarding the use and maintenance of equipment and use of chemicals for cleaning and sanitizing    food contact surfaces. Refer to Storing and Using Poisonous or Toxic Chemicals SOP.
+4. If State or local requirements are based on the 2001 FDA Food Code, wash, rinse, and sanitize food contact surfaces of sinks, tables,equipment, utensils, thermometers, carts, and equipment:
 
   * Before each use
   * Between uses when preparing different types of raw animal foods, such as eggs, fish, meat, and poultry
