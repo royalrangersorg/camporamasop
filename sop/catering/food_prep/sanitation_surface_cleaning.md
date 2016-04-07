@@ -48,11 +48,14 @@ Foodservice will:
 
 1. During all hours of operation, visually and physically inspect food contact surfaces of equipment and utensils to ensure that the surfaces are clean.
 2. In a 3-compartment sink, on a daily basis:
+
   * Visually monitor that the water in each compartment is clean.
   * Take the water temperature in the first compartment of the sink by using a calibrated thermometer.
   * If using chemicals to sanitize, test the sanitizer concentration by using the appropriate test kit for the chemical.
   * If using hot water to sanitize, use a calibrated thermometer to measure the water temperature. 
+  
 3. In a dishmachine, on a daily basis:
+
   * Visually monitor that the water and the interior parts of the machine are clean and free of debris.
   * Continually monitor the temperature and pressure gauges, if applicable, to ensure that the machine is operating according to the data plate.
   * For hot water sanitizing dishmachine, ensure that food contact surfaces are reaching the appropriate temperature by placing a piece of heat sensitive tape on a smallware item or a maximum registering thermometer on a rack and running the item or rack through the dishmachine.
