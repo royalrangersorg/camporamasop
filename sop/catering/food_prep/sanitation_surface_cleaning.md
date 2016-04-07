@@ -45,6 +45,7 @@ if using hot water to sanitize
 
 MONITORING:
 Foodservice will:
+
 1. During all hours of operation, visually and physically inspect food contact surfaces of equipment and utensils to ensure that the surfaces are clean.
 2. In a 3-compartment sink, on a daily basis:
   * Visually monitor that the water in each compartment is clean.
