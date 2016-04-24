@@ -1,4 +1,4 @@
-Pavilion FAQ
+## Pavilion FAQ
 
 * What do I do if the food is late?
 
