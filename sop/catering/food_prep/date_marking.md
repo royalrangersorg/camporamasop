@@ -34,19 +34,12 @@ label that reads, “Lasagna, Cooked, 8/1/05.”
 8/2/05.” Two labels now appear on the lasagna. Since the lasagna was held
 under refrigeration from Monday, 8/1/05 – Tuesday, 8/2/05, only 1 day is counted
 towards the 7-day time period.
-
-HACCP-Based SOPs
-Date Marking Ready-to-Eat, Potentially Hazardous Food,
-continued
-(Sample SOP)
-
-INSTRUCTIONS, continued:
 * On Tuesday 8/16/05 the lasagna is pulled out of the freezer. A third label is
 placed on the lasagna that reads, “Thawed, 8/16/05.” All three labels now appear
 on the lasagna. The lasagna must be served or discarded within 6 days.
 
 MONITORING:
-A designated employee will check refrigerators daily to verify that foods are date marked
+A designated person will check refrigerators daily to verify that foods are date marked
 and that foods exceeding the 7-day time period are not being used or stored.
 
 CORRECTIVE ACTION:
