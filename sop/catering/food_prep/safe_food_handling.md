@@ -1,9 +1,6 @@
 # Safe Food Handling
 
-
-
 ### Holding Hot and Cold Potentially Hazardous Foods
-
 
 PURPOSE: To prevent foodborne illness by ensuring that all potentially hazardous
 foods are held under the proper temperature.
@@ -13,7 +10,8 @@ SCOPE: This procedure applies to foodservice employees who prepare or serve food
 KEY WORDS: Cross-Contamination, Temperatures, Holding, Hot Holding, Cold
 Holding, Storage
 
-### INSTRUCTIONS:
+#### INSTRUCTIONS:
+
 1. Train foodservice employees on using the procedures in this SOP. Refer to the Using
 and Calibrating Thermometers SOP.
 2. Follow State or local health department requirements.
@@ -22,7 +20,8 @@ and Calibrating Thermometers SOP.
   * Hold cold foods at 41 ºF or below
 4. Preheat steam tables and hot boxes.
 
-MONITORING:
+#### MONITORING:
+
 1. Use a clean, sanitized, and calibrated probe thermometer to measure the temperature
 of the food.
 2. Take temperatures of foods by inserting the thermometer near the surface of the
@@ -44,7 +43,8 @@ part of a hot holding unit or warmest part of a cold holding unit.
   * Chill food in accordance with the Cooling Potentially Hazardous Foods SOP if the food is not 41 ºF or below. 
   * Verify that the air temperature of any cold holding unit is at 41 ºF or below before use and at least every 4 hours thereafter during all hours of operation.
 
-CORRECTIVE ACTION:
+#### CORRECTIVE ACTION:
+
 1. Retrain any foodservice employee found not following the procedures in this SOP.
 2. For hot foods:
   * Reheat the food to 165 ºF for 15 seconds if the temperature is found to be below 135 ºF and the last temperature measurement was 135 ºF or higher and taken within the last 2 hours. Repair or reset holding equipment before returning the food to the unit, if applicable.
