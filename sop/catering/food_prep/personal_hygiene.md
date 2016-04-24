@@ -7,7 +7,8 @@ food.
 
 KEY WORDS: Personal Hygiene, Cross-Contamination, Contamination
 
-INSTRUCTIONS:
+#### INSTRUCTIONS:
+
 1. Train foodservice employees on using the procedures in this SOP.
 2. Follow State or local health department requirements.
 3. Follow the Employee Health Policy. (Employee health policy is not included in this resource.)
@@ -28,10 +29,10 @@ INSTRUCTIONS:
   * Wash hands immediately.
 15. Wear suitable and effective hair restraints while in the kitchen.
 
-MONITORING:
+#### MONITORING:
 * A designated foodservice employee will inspect employees when they report to work to be sure that each employee is following this SOP.
 * The designated foodservice employee will monitor that all foodservice employees are adhering to the personal hygiene policy during all hours of operation.
 
-CORRECTIVE ACTION:
+#### CORRECTIVE ACTION:
 1. Retrain any foodservice employee found not following the procedures in this SOP.
 2. Discard affected food.
