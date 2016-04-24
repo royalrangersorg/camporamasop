@@ -1,17 +1,15 @@
-## HACCP-Based SOPs
-Date Marking Ready-to-Eat, Potentially Hazardous Food
-(Sample SOP)
+## Date Marking Ready-to-Eat, Potentially Hazardous Food
 
 PURPOSE: To ensure appropriate rotation of ready-to-eat food to prevent or reduce
 foodborne illness from Listeria monocytogenes.
 
-SCOPE: This procedure applies to foodservice employees who prepare, store, or serve
+SCOPE: This procedure applies to foodservice volunteers who prepare, store, or serve
 food.
 
 KEY WORDS: Ready-to-Eat Food, Potentially Hazardous Food, Date Marking, CrossContamination
 
 ### INSTRUCTIONS:
-1. Train foodservice employees on using the procedures in this SOP. The best practice
+1. Train foodservice volunteers on using the procedures in this SOP. The best practice
 for a date marking system would be to include a label with the product name, the day
 or date, and time it is prepared or opened. Examples of how to indicate when the
 food is prepared or opened include:
