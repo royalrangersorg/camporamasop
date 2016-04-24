@@ -34,11 +34,4 @@ CORRECTIVE ACTIONS:
 5. Discard food held in the temperature danger zone for more than 4 hours.
 
 VERIFICATION AND RECORD KEEPING:
-Foodservice employees will record the date, product name, start and end times of
-production, the two temperature measurements taken, any corrective actions taken, and
-the amount of food prepared on the Production Log. The foodservice manager will verify
-that foodservice employees are taking the required temperatures and following the proper
-preparation procedure by visually monitoring foodservice employees during the shift and
-reviewing, initialing, and dating the Production Log daily. Maintain the Production Log
-as directed by your State agency. The foodservice manager will complete the Food
-Safety Checklist daily.
+Foodservice employees will record the date, product name, start and end times of production, the two temperature measurements taken, any corrective actions taken, and the amount of food prepared on the Production Log. The foodservice manager will verify that foodservice employees are taking the required temperatures and following the proper preparation procedure by visually monitoring foodservice employees during the shift and reviewing, initialing, and dating the Production Log daily. Maintain the Production Log as directed by your State agency. The foodservice manager will complete the Food Safety Checklist daily.
