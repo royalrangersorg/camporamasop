@@ -9,10 +9,9 @@ KEY WORDS: Cross-Contamination, Temperatures, Reheating, Holding, Hot Holding
 
 #### INSTRUCTIONS:
 
-1. Train foodservice employees on using the procedures in this SOP. Refer to the Using
-and Calibrating Thermometers SOP.
+1. Train foodservice employees on using the procedures in this SOP. 
 2. Follow State or local health department requirements.
-3. If State or local requirements are based on the 2001 FDA Food Code, heat processed, ready-to-eat foods from a package or can, such as canned green beans or prepackaged breakfast burritos, to an internal temperature of at least 135 ºF for 15 seconds for hot holding.
+3. If State or local requirements are based on the 2013 FDA Food Code, heat processed, ready-to-eat foods from a package or can, such as canned green beans or prepackaged breakfast burritos, to an internal temperature of at least 135 ºF for 15 seconds for hot holding.
 4. Reheat the following products to 165 ºF for 15 seconds:
   * Any food that is cooked, cooled, and reheated for hot holding
   * Leftovers reheated for hot holding

@@ -14,7 +14,7 @@ Holding, Storage
 1. Train foodservice employees on using the procedures in this SOP. Refer to the Using
 and Calibrating Thermometers SOP.
 2. Follow State or local health department requirements.
-3. If State or local health department requirements are based on the 2001 FDA Food Code:
+3. If State or local health department requirements are based on the 2013 FDA Food Code:
   * Hold hot foods at 135 ºF or above
   * Hold cold foods at 41 ºF or below
 4. Preheat steam tables and hot boxes.

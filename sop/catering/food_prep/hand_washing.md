@@ -38,7 +38,7 @@ KEY WORDS: Handwashing, Cross-Contamination
   * Use paper towel to open door when exiting the restroom.
 9. Follow FDA recommendations when using hand sanitizers. These recommendations are as follows:
   * Use hand sanitizers only after hands have been properly washed and dried.
-  * Use only hand sanitizers that comply with the 2001 FDA Food Code. Confirm with the manufacturers that the hand sanitizers used meet these requirements.
+  * Use only hand sanitizers that comply with the 2013 FDA Food Code. Confirm with the manufacturers that the hand sanitizers used meet these requirements.
   * Use hand sanitizers in the manner specified by the manufacturer.
 
 #### MONITORING:

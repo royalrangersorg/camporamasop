@@ -12,7 +12,7 @@ KEY WORDS: Hot Holding, Cold Holding, Reheating, Cooling, Transporting Food
 
 1. Train foodservice employees on using the procedures in this SOP.
 2. Follow State or local health department requirements.
-3. If State or local health department requirements are based on the 2001 FDA Food Code:
+3. If State or local health department requirements are based on the 2013 FDA Food Code:
   * Keep frozen foods frozen during transportation.
   * Maintain the temperature of refrigerated, potentially hazardous foods at 41 ºF or below and cooked foods that are transported hot at 135 ºF or above.
 4. Use only food carriers for transporting food approved by the National Sanitation Foundation International or that have otherwise been approved by the state or local health department.

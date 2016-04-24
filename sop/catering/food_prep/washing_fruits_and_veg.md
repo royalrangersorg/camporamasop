@@ -17,7 +17,7 @@ KEY WORDS: Fruits, Vegetables, Cross-Contamination, Washing
 6. Wash all raw fruits and vegetables thoroughly before combining with other ingredients, including:
   * Unpeeled fresh fruit and vegetables that are served whole or cut into pieces.
   * Fruits and vegetables that are peeled and cut to use in cooking or served ready-to eat.
-7. Wash fresh produce vigorously under cold running water or by using chemicals that comply with the 2001 FDA Food Code. Packaged fruits and vegetables labeled as being previously washed and ready-to-eat are not required to be washed.
+7. Wash fresh produce vigorously under cold running water or by using chemicals that comply with the 2013 FDA Food Code. Packaged fruits and vegetables labeled as being previously washed and ready-to-eat are not required to be washed.
 8. Scrub the surface of firm fruits or vegetables such as apples or potatoes using a clean and sanitized brush designated for this purpose.
 9. Remove any damaged or bruised areas.
 10. Label, date, and refrigerate fresh-cut items.

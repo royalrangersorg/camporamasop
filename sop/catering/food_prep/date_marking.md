@@ -38,6 +38,8 @@ towards the 7-day time period.
 placed on the lasagna that reads, “Thawed, 8/16/05.” All three labels now appear
 on the lasagna. The lasagna must be served or discarded within 6 days.
 
+
+
 #### MONITORING:
 
 A designated person will check refrigerators daily to verify that foods are date marked

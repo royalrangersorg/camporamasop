@@ -11,7 +11,7 @@ Preparation, Temperature Danger Zone
 
 #### INSTRUCTIONS:
 
-1. Train foodservice employees on using the procedures in this SOP. Refer to the Using and Calibrating Thermometers SOP.
+1. Train foodservice employees on using the procedures in this SOP.
 2. Follow State or local health department requirements.
 3. Wash hands prior to preparing foods. Refer to the Washing Hands SOP.
 4. Use clean and sanitized equipment and utensils while preparing food.

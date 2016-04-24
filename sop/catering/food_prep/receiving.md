@@ -30,9 +30,9 @@ Goods, Delivery
 3. Confirm vendor name, day and time of delivery, as well as driver’s identification before accepting delivery. If driver’s name is different from what is indicated on the delivery schedule, contact the vendor immediately.
 4. Check frozen foods to ensure that they are all frozen solid and show no signs of thawing and refreezing, such as the presence of large ice crystals or liquids on the bottom of cartons.
 5. Check the temperature of refrigerated foods.
-  a. For fresh meat, fish, and poultry products, insert a clean and sanitized thermometer into the center of the product to ensure a temperature of 41 ºF or below. The temperature of milk should be 45 ºF or below.
-  b. For packaged products, insert a food thermometer between two packages being careful not to puncture the wrapper. If the temperature exceeds 41 ºF, it may be necessary to take the internal temperature before accepting the product.
-  c. For eggs, the interior temperature of the truck should be 45 ºF or below.
+  * For fresh meat, fish, and poultry products, insert a clean and sanitized thermometer into the center of the product to ensure a temperature of 41 ºF or below. The temperature of milk should be 45 ºF or below.
+  * For packaged products, insert a food thermometer between two packages being careful not to puncture the wrapper. If the temperature exceeds 41 ºF, it may be necessary to take the internal temperature before accepting the product.
+  * For eggs, the interior temperature of the truck should be 45 ºF or below.
 6. Check dates of milk, eggs, and other perishable goods to ensure safety and quality.
 7. Check the integrity of food packaging.
 8. Check the cleanliness of crates and other shipping containers before accepting products. Reject foods that are shipped in dirty crates.
