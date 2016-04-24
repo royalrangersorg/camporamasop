@@ -1,4 +1,4 @@
-# Saniation and Surface Cleaning
+### Saniation and Surface Cleaning
 
 PURPOSE: To prevent foodborne illness by ensuring that all food contact surfaces are
 properly cleaned and sanitized.
@@ -8,7 +8,7 @@ sanitizing food contact surfaces.
 
 KEY WORDS: Food Contact Surface, Cleaning, Sanitizing
 
-INSTRUCTIONS:
+#### INSTRUCTIONS:
 
 1. Train foodservice on using the procedures in this SOP.
 2. Follow State or local health department requirements.
@@ -43,7 +43,7 @@ F for 30 seconds.
 
 if using hot water to sanitize
 
-MONITORING:
+#### MONITORING:
 Foodservice will:
 
 1. During all hours of operation, visually and physically inspect food contact surfaces of equipment and utensils to ensure that the surfaces are clean.
