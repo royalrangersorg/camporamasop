@@ -2,7 +2,7 @@
 
 
 
-#Holding Hot and Cold Potentially Hazardous Foods
+## Holding Hot and Cold Potentially Hazardous Foods
 
 
 PURPOSE: To prevent foodborne illness by ensuring that all potentially hazardous
