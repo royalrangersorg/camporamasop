@@ -9,7 +9,8 @@ food.
 KEY WORDS: Cross-Contamination, Temperatures, Receiving, Holding, Frozen
 Goods, Delivery
 
-INSTRUCTIONS:
+#### INSTRUCTIONS:
+
 1. Train foodservice employees on using the procedures in this SOP.
 2. Follow State or local health department requirements.
 3. Schedule deliveries to arrive at designated times during operational hours.
@@ -23,7 +24,7 @@ INSTRUCTIONS:
 11. Compare delivery invoice against products ordered and products delivered.
 12. Transfer foods to their appropriate locations as quickly as possible.
 
-MONITORING:
+#### MONITORING:
 1. Inspect the delivery truck when it arrives to ensure that it is clean, free of putrid odors, and organized to prevent cross-contamination. Be sure refrigerated foods are delivered on a refrigerated truck.
 2. Check the interior temperature of refrigerated trucks.
 3. Confirm vendor name, day and time of delivery, as well as driver’s identification before accepting delivery. If driver’s name is different from what is indicated on the delivery schedule, contact the vendor immediately.
@@ -36,7 +37,8 @@ MONITORING:
 7. Check the integrity of food packaging.
 8. Check the cleanliness of crates and other shipping containers before accepting products. Reject foods that are shipped in dirty crates.
 
-CORRECTIVE ACTION:
+#### CORRECTIVE ACTION:
+
 1. Retrain any foodservice employee found not following the procedures in this SOP.
 2. Reject the following:
   * Frozen foods with signs of previous thawing
