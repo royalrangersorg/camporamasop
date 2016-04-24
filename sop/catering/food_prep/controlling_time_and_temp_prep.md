@@ -10,6 +10,7 @@ KEY WORDS: Cross-Contamination, Time and Temperature Control, Food
 Preparation, Temperature Danger Zone
 
 INSTRUCTIONS:
+
 1. Train foodservice employees on using the procedures in this SOP. Refer to the Using and Calibrating Thermometers SOP.
 2. Follow State or local health department requirements.
 3. Wash hands prior to preparing foods. Refer to the Washing Hands SOP.
@@ -22,11 +23,13 @@ INSTRUCTIONS:
 10. If potentially hazardous foods are not cooked or served immediately after preparation, quickly chill. Refer to the Cooling Potentially Hazardous Foods SOP.
 
 MONITORING:
+
 1. Use a clean, sanitized, and calibrated probe thermometer, preferably a thermocouple.
 2. Take at least two internal temperatures from each pan of food at various stages of preparation.
 3. Monitor the amount of time that food is in the temperature danger zone. It should not exceed 4 hours.
 
 CORRECTIVE ACTIONS:
+
 1. Retrain any foodservice employee found not following the procedures in this SOP.
 2. Begin the cooking process immediately after preparation is complete for any foods that will be served hot.
 3. Rapidly cool ready-to-eat foods or foods that will be cooked at a later time.
