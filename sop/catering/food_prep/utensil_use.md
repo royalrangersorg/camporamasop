@@ -7,7 +7,8 @@ food.
 
 KEY WORDS: Ready-to-Eat Food, Cross-Contamination
 
-INSTRUCTIONS:
+#### INSTRUCTIONS:
+
 1. Train foodservice employees on using the procedures in this SOP.
 2. Follow State or local health department requirements.
 3. Use proper handwashing procedures to wash hands and exposed arms prior to preparing or handling food or at anytime when the hands may have become contaminated.
@@ -27,15 +28,18 @@ INSTRUCTIONS:
   * Anytime a glove is torn, damaged, or soiled
   * Anytime contamination of a glove might have occurred
 
-MONITORING:
+#### MONITORING:
+
 A designated foodservice employee will visually observe that gloves or suitable utensils
 are used and changed at the appropriate times during all hours of operation.
 
-CORRECTIVE ACTION:
+#### CORRECTIVE ACTION:
+
 1. Retrain any foodservice employee found not following the procedures in this SOP.
 2. Discard ready-to-eat food touched with bare hands.
 
-VERIFICATION AND RECORD KEEPING:
+#### VERIFICATION AND RECORD KEEPING:
+
 The foodservice manager will verify that foodservice workers are using suitable utensils
 by visually monitoring foodservice employees during all hours of operation. The
 foodservice manager will complete the Food Safety Checklist daily. The designated
