@@ -9,6 +9,7 @@ preparing, and serving food.
 KEY WORDS: Cross-Contamination, Preparation, Contamination, Storage, Receiving
 
 INSTRUCTIONS:
+
 1. Train foodservice employees on using the procedures in this SOP.
 2. Follow State or local health department requirements.
 3. Wash hands properly. Refer to the Washing Hands SOP.
@@ -25,10 +26,12 @@ INSTRUCTIONS:
 14. Store damaged goods in a separate location. Refer to Segregating Damaged Goods SOP.
 
 MONITORING:
+
 A designated foodservice employee will continually monitor food storage and preparation
 to ensure that food is not cross-contaminated.
 
 CORRECTIVE ACTION:
+
 1. Retrain any foodservice employee found not following the procedures in this SOP.
 2. Separate foods found improperly stored.
 3. Discard ready-to-eat foods that are contaminated by raw eggs, raw fish, raw meat, or raw poultry.
