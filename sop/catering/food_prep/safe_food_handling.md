@@ -8,7 +8,7 @@ SCOPE: This procedure applies to foodservice employees who prepare or serve food
 KEY WORDS: Cross-Contamination, Temperatures, Holding, Hot Holding, Cold
 Holding, Storage
 
-#### INSTRUCTIONS:
+### INSTRUCTIONS:
 
 1. Train foodservice employees on using the procedures in this SOP. Refer to the Using
 and Calibrating Thermometers SOP.
@@ -18,7 +18,7 @@ and Calibrating Thermometers SOP.
   * Hold cold foods at 41 ºF or below
 4. Preheat steam tables and hot boxes.
 
-#### MONITORING:
+### MONITORING:
 
 1. Use a clean, sanitized, and calibrated probe thermometer to measure the temperature
 of the food.
@@ -41,7 +41,7 @@ part of a hot holding unit or warmest part of a cold holding unit.
   * Chill food in accordance with the Cooling Potentially Hazardous Foods SOP if the food is not 41 ºF or below. 
   * Verify that the air temperature of any cold holding unit is at 41 ºF or below before use and at least every 4 hours thereafter during all hours of operation.
 
-#### CORRECTIVE ACTION:
+### CORRECTIVE ACTION:
 
 1. Retrain any foodservice employee found not following the procedures in this SOP.
 2. For hot foods:
