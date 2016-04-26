@@ -1,4 +1,4 @@
-### Washing Hands
+## Washing Hands
 
 PURPOSE: To prevent foodborne illness by contaminated hands.
 
@@ -6,7 +6,7 @@ SCOPE: This procedure applies to anyone who handle, prepare, and serve food.
 
 KEY WORDS: Handwashing, Cross-Contamination
 
-#### INSTRUCTIONS:
+### INSTRUCTIONS:
 
 1. Train foodservice employees on using the procedures in this SOP.
 2. Follow State or local health department requirements.
@@ -41,17 +41,17 @@ KEY WORDS: Handwashing, Cross-Contamination
   * Use only hand sanitizers that comply with the 2013 FDA Food Code. Confirm with the manufacturers that the hand sanitizers used meet these requirements.
   * Use hand sanitizers in the manner specified by the manufacturer.
 
-#### MONITORING:
+### MONITORING:
 
 1. A designated employee will visually observe the handwashing practices of the foodservice staff during all hours of operation.
 2. The designated employee will visually observe that handwashing sinks are properly supplied during all hours of operation.
 
-#### CORRECTIVE ACTION:
+### CORRECTIVE ACTION:
 
 1. Retrain any foodservice employee found not following the procedures in this SOP.
 2. Ask employees that are observed not washing their hands at the appropriate times or using the proper procedure to wash their hands immediately.
 3. Retrain employee to ensure proper handwashing procedure.
 
-#### VERIFICATION AND RECORD KEEPING:
+### VERIFICATION AND RECORD KEEPING:
 The foodservice manager will complete the Food Safety Checklist daily to indicate that
 monitoring is being conducted as specified.
