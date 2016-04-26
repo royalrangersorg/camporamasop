@@ -1,4 +1,4 @@
-# Pavilion Setup
+# Pavilion Orientation
 
 PURPOSE: Familiarize yourself with setup and running of a pavilion for Camporama
 
