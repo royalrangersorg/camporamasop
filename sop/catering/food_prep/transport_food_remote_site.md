@@ -1,4 +1,4 @@
-### Transporting Food to Remote Sites (Pavilions)
+## Transporting Food to Remote Sites (Pavilions)
 
 PURPOSE: To prevent foodborne illness by ensuring that food temperatures are
 maintained during transportation and contamination is prevented.
@@ -8,7 +8,7 @@ central kitchen to remote sites (satellite kitchens).
 
 KEY WORDS: Hot Holding, Cold Holding, Reheating, Cooling, Transporting Food
 
-#### INSTRUCTIONS:
+### INSTRUCTIONS:
 
 1. Train foodservice employees on using the procedures in this SOP.
 2. Follow State or local health department requirements.
@@ -31,12 +31,12 @@ KEY WORDS: Hot Holding, Cold Holding, Reheating, Cooling, Transporting Food
 7. Place food containers in food carriers and transport the food in clean trucks, if applicable, to remote sites as quickly as possible.
 8. Follow Receiving Deliveries SOP when food arrives at remote site.
 
-#### MONITORING:
+### MONITORING:
 
 1. Check the air temperature of the food carrier to ensure that the temperature suggested by the manufacturer is reached prior to placing food into it.
 2. Check the internal temperatures of food using a calibrated thermometer before placing it into the food carrier. Refer to the Holding Hot and Cold Potentially Hazardous Foods SOP for the proper procedures to follow when taking holding temperatures.
 
-#### CORRECTIVE ACTION:
+### CORRECTIVE ACTION:
 
 1. Retrain any foodservice employee found not following the procedures in this SOP.
 2. Continue heating or chilling food carrier if the proper air temperature is not reached.
@@ -44,7 +44,7 @@ KEY WORDS: Hot Holding, Cold Holding, Reheating, Cooling, Transporting Food
 4. Cool food to 41 ºF or below using a proper cooling procedure if the internal temperature of cold food is greater than 41 ºF. Refer to the Cooling Potentially Hazardous Foods SOP for the proper procedures to follow when cooling food.
 5. Discard foods held in the danger zone for greater than 4 hours.
 
-#### VERIFICATION AND RECORD KEEPING:
+### VERIFICATION AND RECORD KEEPING:
 Before transporting food to remote sites, foodservice employees will record food carrier
 temperature, food product name, time, internal temperatures, and any corrective action
 taken on the Hot and Cold Holding Temperature Log. Upon receipt of food at remote
