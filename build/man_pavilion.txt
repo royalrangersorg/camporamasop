@@ -1,0 +1,8 @@
+../sop/index.md
+../sop/catering/distribution/pavillion/orientation.md
+../sop/catering/distribution/pavillion/tag_scanners.md
+../sop/catering/food_prep/food_serving.md
+../sop/catering/food_prep/hand_washing.md
+../sop/catering/food_prep/transport_food_remote_site.md
+../sop/catering/food_prep/utensil_use.md
+../sop/catering/distribution/pavillion/faq.md
