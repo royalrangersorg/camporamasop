@@ -1,4 +1,3 @@
-# Safe Food Handling
 ## Holding Hot and Cold Potentially Hazardous Foods
 
 PURPOSE: To prevent foodborne illness by ensuring that all potentially hazardous
