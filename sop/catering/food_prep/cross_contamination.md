@@ -1,4 +1,4 @@
-### Preventing Cross-Contamination During Storage and Preparation
+## Preventing Cross-Contamination During Storage and Preparation
 
 PURPOSE: To reduce foodborne illness by preventing unintentional contamination of
 food.
@@ -8,7 +8,7 @@ preparing, and serving food.
 
 KEY WORDS: Cross-Contamination, Preparation, Contamination, Storage, Receiving
 
-#### INSTRUCTIONS:
+### INSTRUCTIONS:
 
 1. Train foodservice employees on using the procedures in this SOP.
 2. Follow State or local health department requirements.
@@ -25,12 +25,12 @@ KEY WORDS: Cross-Contamination, Preparation, Contamination, Storage, Receiving
 13. Clean the exterior surfaces of food containers, such as cans and jars, of visible soil before opening.
 14. Store damaged goods in a separate location. Refer to Segregating Damaged Goods SOP.
 
-#### MONITORING:
+### MONITORING:
 
 A designated foodservice employee will continually monitor food storage and preparation
 to ensure that food is not cross-contaminated.
 
-#### CORRECTIVE ACTION:
+### CORRECTIVE ACTION:
 
 1. Retrain any foodservice employee found not following the procedures in this SOP.
 2. Separate foods found improperly stored.
