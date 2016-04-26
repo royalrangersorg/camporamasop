@@ -18,7 +18,7 @@ done
 
 pandoc all.md -o all.html
 
-cat ../sop/resources/img/style.html | cat - all.html > /tmp/foo && rm -rf all.html && mv /tmp/foo all.html
+cat ../resources/style.html | cat - all.html > /tmp/foo && rm -rf all.html && mv /tmp/foo all.html
 wkhtmltopdf all.html all.pdf
 #rm -rf all.html
 rm -rf all.md
