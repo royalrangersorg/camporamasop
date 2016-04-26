@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# wkhtmltopdf --footer-center [page] --header-left 'Pavillion Orientation [doctitle]' --header-spacing='1cm'  --header-right '[page]/[toPage]'  --header-line --margin-top '1cm'  or.html or.pdf 
 FILE=manifest.txt
 
 rm -rf all.md
