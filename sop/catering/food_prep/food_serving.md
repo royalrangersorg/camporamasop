@@ -1,4 +1,4 @@
-### Serving Food
+## Serving Food
 
 PURPOSE: To prevent foodborne illness by ensuring that all foods are served in a
 sanitary manner.
@@ -7,7 +7,7 @@ SCOPE: This procedure applies to foodservice employees who serve food.
 
 KEY WORDS: Cross-Contamination, Service
 
-#### INSTRUCTIONS:
+### INSTRUCTIONS:
 
 1. Train foodservice employees on using the procedures in this SOP.
 2. Follow State or local health department requirements.
@@ -20,19 +20,19 @@ KEY WORDS: Cross-Contamination, Service
 0. Store in-use utensils properly. Refer to the Storing In-Use Utensils SOP.
 10. Date mark and cool potentially hazardous foods or discard leftovers. Refer to the Date Marking Ready-to-Eat, Potentially Hazardous Foods, and Cooling Potentially Hazardous Foods SOPs.
 
-#### MONITORING:
+### MONITORING:
 
 A designated foodservice employee will visually observe that food is being served in a
 manner that prevents contamination during all hours of service.
 
-#### CORRECTIVE ACTION:
+### CORRECTIVE ACTION:
 
 1. Retrain any foodservice employee found not following the procedures in this SOP.
 2. Replace improperly handled plates, cups, or utensils.
 3. Discard ready-to-eat food that has been touched with bare hands.
 4. Follow the corrective actions identified in the Washing Hands; Using Suitable Utensils When Handling Ready-To-Eat Foods; Date Marking Ready-to-Eat, Potentially Hazardous Foods; Cooling Potentially Hazardous Foods; and Holding Hot and Cold Potentially Hazardous Foods SOPs.
 
-#### VERIFICATION AND RECORD KEEPING:
+### VERIFICATION AND RECORD KEEPING:
 
 The foodservice manager will periodically check the storage and use of utensils during
 service. In addition, the foodservice manager will complete the Food Safety Checklist
