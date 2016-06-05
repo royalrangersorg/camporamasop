@@ -5,7 +5,7 @@
 
 
 
-![Logo](https://raw.githubusercontent.com/royalrangersorg/camporamasop/master/resources/img/logo.jpg?raw=true)
+![](https://raw.githubusercontent.com/royalrangersorg/camporamasop/master/resources/img/logo.jpg?raw=true)
 
 
 
