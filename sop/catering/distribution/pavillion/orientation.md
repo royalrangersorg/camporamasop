@@ -25,7 +25,7 @@ The food service group for camporama has the following organization:
 
 ## Meetings
 
-There will be a pavilion manager meeting at 10:00am every day after breakfast in the Johnnie Barnes Lodge Kitchen. Its to the discretion of the Food Service Coordinator to move or alter this meeting as they see fit.
+There will be a pavilion manager meeting at 9:00am every day after breakfast in the Johnnie Barnes Lodge Kitchen. Its to the discretion of the Food Service Coordinator to move or alter this meeting as they see fit.
 
 ## Pavilion
 
